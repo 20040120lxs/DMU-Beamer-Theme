@@ -7,5 +7,6 @@
 互联网搜集而得，非官方标准，仅供参考。  
 大连海事大学校徽  
 <img width="205" alt="Snipaste_2024-06-30_17-18-42" src="https://github.com/20040120lxs/DMU-Beamer-Theme/assets/150308423/fc050e51-1790-4bee-b5f0-4eb0f38280e0">  
-#044ca4  
+海大蓝由深蓝和浅蓝组成，深蓝色值 (R:0 G:77 B:255;C:100 M:70 Y:0 K:0)，浅蓝色值 (R:178 G:226 B:255;C:30 M:10 Y:0 K:0)  
+#044ca4 (R:4 G:76 B:163;C:97,M:53 Y:0 K:35)  
 ![044CA4](https://github.com/20040120lxs/DMU-Beamer-Theme/assets/150308423/d8b74102-c7e0-4636-808f-2633731466cf)
